@@ -13,8 +13,8 @@ profile:
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false  # includes social icons at the bottom of the page
 ---
 I'm a data analyst, facilitator, and strategist. In my analysis work, I use Python, SQL, and Power BI to access, clean, transform, and visualize data into stories with the power to drive positive change. I believe grounding data work in intersectional feminist questions - about beneficence, bias, and positionality - is fundamental first step for those committed to using data for good. After all, the personal is political, and data work is both.
 

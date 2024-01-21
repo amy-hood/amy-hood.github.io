@@ -1,12 +1,5 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - amy-hood
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - amy-hood/data-culture-results
