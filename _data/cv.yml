@@ -2,102 +2,96 @@
   type: map
   contents:
     - name: Full Name
-      value: Amy Leigh Hood
-    - name: Pronouns
-      value: she/her/hers or they/them/theirs
-    - name: Citizenship
-      value: American
-
-- title: Skills
-  type: list
-  contents:
-    - "Languages: python, SQL, DAX, beginner JavaScript"
-    - "Data Tools: Power BI, Tableau, Google Sheets, Excel, Airtable, Smartsheet"
-    - "Design Tools: Adobe Photoshop, PowerPoint, Camtasia"
-    - "Other Tools: git, GitHub, Jira"
+      value: Albert Einstein
+    - name: Date of Birth
+      value: 14th March 1879
+    - name: Languages
+      value: English, German
 
 - title: Education
   type: time_table
   contents:
-    - title: Bachelors of Arts, International Affairs and French
-      institution: Northeastern University, Boston, Massachusetts
-      year: Sept 2012 - May 2016
+    - title: PhD
+      institution: University of Zurich, Zurich, Switzerland
+      year: 1905
       description:
-        - Earned a B.A. in International Affairs and French in May 2016 from Northeastern University
-        - summa cum laude (GPA 3.924/4.0)
-        - title: Activities and Societies
+        - Description 1.
+        - Description 2.
+        - title: Description 3.
           contents:
-            - NUEats, Northeastern's first food club
-            - Spectrum Literary Arts Magazine, the award-winning literary arts magazine of Northeastern
-            - Global Journal, Northeastern's student-run International Affairs publication
-            - NUTELLS, Northeastern University Teaching English Language and Literacy Skills
-          
-    - title: Study Abroad Experience in Grenoble, France
-      institution: Université Stendhal Grenoble 3, Grenoble, France
-      year: Jan to May 2015
+            - Sub-description 1.
+            - Sub-description 2.
+    - title: Federal teaching diploma
+      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
+      year: 1900
       description:
-        - One semester French language program in Grenoble, France
-        - GPA 4.0/4.0
-
-    - title: Study Abroad Experience in Dublin, Ireland
-      institution: University College Dublin, Dublin, Ireland
-      year: Jan to May 2014
-      description:
-        - One semester study abroad experience in Dublin, Ireland
-        - GPA 4.08/4.2
-    - title: Coursework completed towards a Bachelor of Arts in French and English
-      institution: University of Vermont, Burlington, Vermont
-      year: Sept 2011 - May 2012
-      description:
-        - One year of coursework completed at the University of Vermont
-        - GPA 3.92/4.0
+        - Description 1.
+        - Description 2.
 
 - title: Experience
   type: time_table
   contents:
-    - title: Performance Manager
-      institution: City of Boston
-      year: Mar 2023 - present
+    - title: Professor of Theoretical Physics
+      institution: Institute for Advanced Study, Princeton University
+      year: 1933 - 1955
       description:
-        - Create and implement Mission to Metrics, an internal consulting service that develops strategic department performance goals in partnership with senior leaders
-        - Develop, design and scale the Metric Library, a centralized resource in dbt that quickly and accurately calculates 60+ City metrics across 14+ departments on-demand
-        - Advise and delegate to two Analysts, aligned to professional development and team needs
-        - Mentor and advise on Power BI for 100+ users, developing governance and best practices
-        - Co-chair the <a href="https://www.boston.gov/departments/innovation-and-technology/boston-data-collective">Boston Data Collective</a>, an employee resource group with 90+ members
+        - Description 1.
+        - Description 2.
+        - title: Description 3.
+          contents:
+            - Sub-description 1.
+            - Sub-description 2.
+    - title: Visiting Professor
+      institution: California Institute of Technology, Pasadena, California, US
+      year: 1933
+      description:
+        - Description 1.
+        - Description 2.
 
-    - title: Analyst, Performance Management
-      institution: City of Boston
-      year: May 2022 - Mar 2023
-      description:
-        - Delivered data products in Tableau, Knack, Python, and SQL, including a custom Knack app to collect reporting data representing $560 million in grant funds
-        - Created goals, objectives, and metrics for departments managing $20-50m budgets
-        - Founded a city-wide data culture program dedicated to building an ethical data culture
+    - title: Director
+      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
+      year: 1917-1933
 
-    - title: Data Analysis Consultant
-      institution: Mobile Game Doctor
-      year: Jun 2021 - Feb 2022
+    - title: Professor of Theoretical Physics
+      institution: Karl-Ferdinand University, Prague, Czechoslovakia
+      year: 1911 - 1917
       description:
-        - Created dashboards using company's revenue data to drive decisions on user acquisition campaigns
 
-    - title: Program Specialist, Program Data Systems and Analysis
-      institution: Oxfam America
-      year: Dec 2019 - Apr 2022
-      description:
-        - Modeled, cleaned, analyzed and visualized internal and external data in Power BI and Excel
-        - Designed feminist data collection processes, including how to quantify investment in gender justice work across 200+ staff
-        - Led strategy, operations and budget management for <a href="https://www.youtube.com/watch?v=4O_DIl0fJzU">Data Pack</a>, a staff-led community of practice, to build a feminist data culture
-    
-    - title: Volunteer Data Analyst
-      institution: Ward 6 Mutual Aid
-      year: Mar to Aug 2020
-      description:
-        - Developed data collection system for face mask acquisition and delivery in Airtable
-        - Analyzed and visualized fundraising data in Tableau to drive additional donations
-    
-    - title: Program Coordinator, LEAD and ICT4D
-      institution: Oxfam America
-      year: Feb 2017 - Dec 2019
-      description:
-        - Delivered data projects on time, on budget, and on scope in Power BI and Excel
-        - Co-founded and built membership of Data Pack, a staff-led community of practice dedicated to data with 40+ members
-        - Reconciled budgetary data for two departments, each managing over $100k non-personnel budget annually
+    - title: Associate Professor of Theoretical Physics
+      institution: University of Zurich, Zurich, Switzerland
+      year: 1909 - 1911
+
+- title: Open Source Projects
+  type: time_table
+  contents:
+    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+      year: 2015-now
+      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 1921
+      items:
+        - Nobel Prize in Physics
+        - Matteucci Medal
+    - year: 2029
+      items:
+        - Max Planck Medal
+
+- title: Academic Interests
+  type: nested_list
+  contents:
+    - title: Topic 1.
+      items:
+        - Description 1.
+        - Description 2.
+    - title: Topic 2.
+      items:
+        - Description 1.
+        - Description 2.
+
+- title: Other Interests
+  type: list
+  contents:
+    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.

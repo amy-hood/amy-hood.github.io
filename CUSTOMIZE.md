@@ -3,36 +3,6 @@
 Here we will give you some tips on how to customize the website. One important thing to note is that **ALL** the changes you make should be done on the **main** branch of your repository. The `gh-pages` branch is automatically overwritten every time you make a change to the main branch.
 
 <!--ts-->
-
-- [Customize](#customize)
-  - [Project structure](#project-structure)
-  - [Configuration](#configuration)
-  - [Modifying the CV information](#modifying-the-cv-information)
-  - [Modifying the user and repository information](#modifying-the-user-and-repository-information)
-  - [Creating new pages](#creating-new-pages)
-  - [Creating new blog posts](#creating-new-blog-posts)
-  - [Creating new projects](#creating-new-projects)
-  - [Adding some news](#adding-some-news)
-  - [Adding Collections](#adding-collections)
-  - [Adding a new publication](#adding-a-new-publication)
-    - [Author annotation](#author-annotation)
-    - [Buttons (through custom bibtex keywords)](#buttons-through-custom-bibtex-keywords)
-  - [Changing theme color](#changing-theme-color)
-  - [Adding social media information](#adding-social-media-information)
-  - [Adding a newsletter](#adding-a-newsletter)
-  - [Removing content](#removing-content)
-    - [Removing the blog page](#removing-the-blog-page)
-    - [Removing the news section](#removing-the-news-section)
-    - [Removing the projects page](#removing-the-projects-page)
-    - [Removing the publications page](#removing-the-publications-page)
-    - [Removing the repositories page](#removing-the-repositories-page)
-  - [Adding Token for Lighthouse Badger](#adding-token-for-lighthouse-badger)
-    - [Personal Access Token (fine-grained) Permissions for Lighthouse Badger:](#personal-access-token-fine-grained-permissions-for-lighthouse-badger)
-  - [Customizing fonts, spacing, and more](#customizing-fonts-spacing-and-more)
-  - [Scheduled Posts](#scheduled-posts)
-    - [Name Format](#name-format)
-    - [Important Notes](#important-notes)
-
 <!--te-->
 
 ## Project structure
@@ -79,9 +49,9 @@ All changes made to this file are only visible after you rebuild the website. Th
 
 ## Modifying the CV information
 
-There are currently 2 different ways of generating the CV page content. The first one is by using a json file located in assets/json/resume.json. It is a [known standard](https://jsonresume.org/) for creating a CV programmatically. The second one, currently used as a fallback when the json file is not found, is by using a yml file located in [\_data/cv.yml](_data/cv.yml). This was the original way of creating the CV page content and since it is more human readable than a json file we decided to keep it as an option.
+There are currently 2 different ways of generating the CV page content. The first one is by using a json file located in [assets/json/resume.json](assets/json/resume.json). It is a [known standard](https://jsonresume.org/) for creating a CV programmatically. The second one, currently used as a fallback when the json file is not found, is by using a yml file located in [\_data/cv.yml](_data/cv.yml). This was the original way of creating the CV page content and since it is more human readable than a json file we decided to keep it as an option.
 
-What this means is, if there is no resume data defined in [\_config.yml](_config.yml) and loaded via a json file, it will load the contents of [\_data/cv.yml](_data/cv.yml). If you want to use the [\_data/cv.yml](_data/cv.yml) file as the source of your CV, you must delete the assets/json/resume.json file.
+What this means is, if there is no resume data defined in [\_config.yml](_config.yml) and loaded via a json file, it will load the contents of [\_data/cv.yml](_data/cv.yml). If you want to use the [\_data/cv.yml](_data/cv.yml) file as the source of your CV, you must delete the [assets/json/resume.json](assets/json/resume.json) file.
 
 ## Modifying the user and repository information
 
@@ -101,7 +71,7 @@ Note that `posts` is also a collection, but it is a default collection created a
 
 ## Creating new projects
 
-You can create new projects by adding new Markdown files in the \_projects directory. The easiest way to do this is to copy an existing project and modify it.
+You can create new projects by adding new Markdown files in the [\_projects](_projects/) directory. The easiest way to do this is to copy an existing project and modify it.
 
 ## Adding some news
 
