@@ -3,12 +3,14 @@ layout: about
 title: about
 permalink: /
 subtitle: feminist data ethics | data culture | design for data
+subtitle: feminist data ethics | data culture | design for data
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
+    <p>Boston, Massachusetts</p>
     <p>Boston, Massachusetts</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"

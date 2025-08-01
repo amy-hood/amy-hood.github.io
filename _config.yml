@@ -7,15 +7,25 @@ first_name: Amy
 middle_name:
 last_name: Hood
 email: amyleighhood7@gmail.com
+first_name: Amy
+middle_name:
+last_name: Hood
+email: amyleighhood7@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
+  Data analyst, facilitator and strategist.
   Data analyst, facilitator and strategist.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 keywords: jekyll, jekyll-theme, portfolio-website # add your own keywords or leave empty
+keywords: jekyll, jekyll-theme, portfolio-website # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: website_icon.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: website_icon.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
+url: https://amy-hood.github.io # the base hostname & protocol for your site
+# baseurl:  # the subpath of your site, e.g. /blog/. Leave blank for root
+last_updated: true # set to true if you want to display last updated in the footer
 url: https://amy-hood.github.io # the base hostname & protocol for your site
 # baseurl:  # the subpath of your site, e.g. /blog/. Leave blank for root
 last_updated: true # set to true if you want to display last updated in the footer
@@ -84,6 +94,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
+blog_name: amy hood # blog_name will be displayed in your blog page
+blog_description: a place for reflection on my journey with all things data
 blog_name: amy hood # blog_name will be displayed in your blog page
 blog_description: a place for reflection on my journey with all things data
 permalink: /blog/:year/:title/
