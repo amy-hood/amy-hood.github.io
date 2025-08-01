@@ -22,13 +22,7 @@
     - title: Bachelors of Arts, International Affairs and French
       institution: Northeastern University, Boston, Massachusetts
       year: Sept 2012 - May 2016
-    - title: Bachelors of Arts, International Affairs and French
-      institution: Northeastern University, Boston, Massachusetts
-      year: Sept 2012 - May 2016
       description:
-        - Earned a B.A. in International Affairs and French in May 2016 from Northeastern University
-        - summa cum laude (GPA 3.924/4.0)
-        - title: Activities and Societies
         - Earned a B.A. in International Affairs and French in May 2016 from Northeastern University
         - summa cum laude (GPA 3.924/4.0)
         - title: Activities and Societies
@@ -37,31 +31,14 @@
             - Spectrum Literary Arts Magazine, the award-winning literary arts magazine of Northeastern
             - Global Journal, Northeastern's student-run International Affairs publication
             - NUTELLS, Northeastern University Teaching English Language and Literacy Skills
+          
     - title: Study Abroad Experience in Grenoble, France
       institution: Université Stendhal Grenoble 3, Grenoble, France
       year: Jan to May 2015
       description:
         - One semester French language program in Grenoble, France
         - GPA 4.0/4.0
-    - title: Study Abroad Experience in Dublin, Ireland
-      institution: University College Dublin, Dublin, Ireland
-      year: Jan to May 2014
-      description:
-        - One semester study abroad experience in Dublin, Ireland
-        - GPA 4.08/4.2
-    - title: Coursework completed towards a Bachelor of Arts in French and English
-      institution: University of Vermont, Burlington, Vermont
-      year: Sept 2011 - May 2012
-            - NUEats, Northeastern's first food club
-            - Spectrum Literary Arts Magazine, the award-winning literary arts magazine of Northeastern
-            - Global Journal, Northeastern's student-run International Affairs publication
-            - NUTELLS, Northeastern University Teaching English Language and Literacy Skills
-    - title: Study Abroad Experience in Grenoble, France
-      institution: Université Stendhal Grenoble 3, Grenoble, France
-      year: Jan to May 2015
-      description:
-        - One semester French language program in Grenoble, France
-        - GPA 4.0/4.0
+
     - title: Study Abroad Experience in Dublin, Ireland
       institution: University College Dublin, Dublin, Ireland
       year: Jan to May 2014
@@ -95,11 +72,13 @@
         - Delivered data products in Tableau, Knack, Python, and SQL, including a custom Knack app to collect reporting data representing $560 million in grant funds
         - Created goals, objectives, and metrics for departments managing $20-50m budgets
         - Founded a city-wide data culture program dedicated to building an ethical data culture
+
     - title: Data Analysis Consultant
       institution: Mobile Game Doctor
       year: Jun 2021 - Feb 2022
       description:
         - Created dashboards using company's revenue data to drive decisions on user acquisition campaigns
+
     - title: Program Specialist, Program Data Systems and Analysis
       institution: Oxfam America
       year: Dec 2019 - Apr 2022
@@ -107,12 +86,14 @@
         - Modeled, cleaned, analyzed and visualized internal and external data in Power BI and Excel
         - Designed feminist data collection processes, including how to quantify investment in gender justice work across 200+ staff
         - Led strategy, operations and budget management for <a href="https://www.youtube.com/watch?v=4O_DIl0fJzU">Data Pack</a>, a staff-led community of practice, to build a feminist data culture
+    
     - title: Volunteer Data Analyst
       institution: Ward 6 Mutual Aid
       year: Mar to Aug 2020
       description:
         - Developed data collection system for face mask acquisition and delivery in Airtable
         - Analyzed and visualized fundraising data in Tableau to drive additional donations
+    
     - title: Program Coordinator, LEAD and ICT4D
       institution: Oxfam America
       year: Feb 2017 - Dec 2019
@@ -120,19 +101,3 @@
         - Delivered data projects on time, on budget, and on scope in Power BI and Excel
         - Co-founded and built membership of Data Pack, a staff-led community of practice dedicated to data with 40+ members
         - Reconciled budgetary data for two departments, each managing over $100k non-personnel budget annually
-    - title: Program Coordinator, LEAD and CF
-      institution: Oxfam America
-      year: Sept to Dec 2016
-        - Delivered data projects on time, on budget, and on scope in Power BI and Excel
-        - Co-founded and built membership of Data Pack, a staff-led community of practice dedicated to data with 40+ members
-        - Reconciled budgetary data for two departments, each managing over $100k non-personnel budget annually
-    - title: Program Coordinator, LEAD and CF
-      institution: Oxfam America
-      year: Sept to Dec 2016
-      description:
-        - Facilitated and assisted each stage of securing grants for Saving for Change, a women-led microfinance program
-        - Managed event logistics for all CF and LEAD events, including a 40+ person off-site with international attendees
-        - Reconciled budgetary data for two departments
-        - Facilitated and assisted each stage of securing grants for Saving for Change, a women-led microfinance program
-        - Managed event logistics for all CF and LEAD events, including a 40+ person off-site with international attendees
-        - Reconciled budgetary data for two departments

@@ -11,7 +11,6 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Boston, Massachusetts</p>
-    <p>Boston, Massachusetts</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
